@@ -1,4 +1,0 @@
-baseURL = 'https://turuibo.github.io/blog_site/'
-languageCode = 'en-us'
-title = 'Ruibo blog Site'
-theme = 'hugo-PaperMod'
