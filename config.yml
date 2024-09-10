@@ -2,22 +2,14 @@ baseURL: https://turuibo.github.io/blog_site/
 languageCode: en-us
 theme: hugo-PaperMod
 params:
-  profileMode:
-    enabled: true
-    title: "Ruibo blog site" # optional default will be site title
-    subtitle: "Blogs of Machine Learning"
-    imageUrl: "<image link>" # optional
-    imageTitle: "<title of image as alt>" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
-    buttons:
-      - name: Archive
-        url: "/archive"
-      - name: Github
-        url: "https://github.com/"
+  homeInfoParams:
+    Title: Ruibo blog site
+    Content: Blogs of Machine Learning
 
   socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
+    - name: "google scholar"
+      url: "https://scholar.google.se/citations?user=auIx_r0AAAAJ&hl=en"
+    - name: "github"
+      url: "https://github.com/TURuibo"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/ruibo-t-6017a3139/"
