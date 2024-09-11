@@ -1,6 +1,26 @@
 baseURL: https://turuibo.github.io/blog_site/
+title: Ruibo-blog
 languageCode: en-us
 theme: hugo-PaperMod
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Tags
+          url: tags/
+          weight: 10
+
+        
 params:
   homeInfoParams:
     Title: Ruibo blog site
@@ -13,3 +33,16 @@ params:
       url: "https://github.com/TURuibo"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/ruibo-t-6017a3139/"
+
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowWordCount: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  comments: true

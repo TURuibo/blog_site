@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://turuibo.github.io/blog_site/</loc>
-    <lastmod>2024-09-10T07:07:07+01:00</lastmod>
+    <loc>https://turuibo.github.io/blog_site/tags/foundation-models/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://turuibo.github.io/blog_site/tags/llms/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://turuibo.github.io/blog_site/posts/</loc>
-    <lastmod>2024-09-10T07:07:07+01:00</lastmod>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://turuibo.github.io/blog_site/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://turuibo.github.io/blog_site/tags/tabular/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://turuibo.github.io/blog_site/posts/2024-09-11-tabular-foundation-models/</loc>
-    <lastmod>2024-09-10T07:07:07+01:00</lastmod>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://turuibo.github.io/blog_site/tags/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://turuibo.github.io/blog_site/archives/</loc>
   </url><url>
     <loc>https://turuibo.github.io/blog_site/categories/</loc>
   </url><url>
-    <loc>https://turuibo.github.io/blog_site/tags/</loc>
+    <loc>https://turuibo.github.io/blog_site/series/</loc>
   </url>
 </urlset>

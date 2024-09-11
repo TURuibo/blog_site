@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ruibo-blog</title>
-    <link>https://turuibo.github.io/blog_site/</link>
-    <description>Recent content on Ruibo-blog</description>
+    <title>Tabular on Ruibo-blog</title>
+    <link>https://turuibo.github.io/blog_site/tags/tabular/</link>
+    <description>Recent content in Tabular on Ruibo-blog</description>
     <generator>Hugo -- 0.134.1</generator>
     <language>en</language>
     <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://turuibo.github.io/blog_site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://turuibo.github.io/blog_site/tags/tabular/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tabular Foundation Models</title>
       <link>https://turuibo.github.io/blog_site/posts/2024-09-11-tabular-foundation-models/</link>
