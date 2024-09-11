@@ -12,3 +12,18 @@ Tabular foundation models are ...
 
 
 ![](images/CTFM.png "Demonstration")
+
+
+# Citation
+
+```
+@article{tu2024tabularllms,
+  title   = "Tabular Foundation Models",
+  author  = "Tu, Ruibo",
+  journal = "turuibo.github.io",
+  year    = "2024",
+  month   = "Sep",
+  url     = ""
+}
+
+```
