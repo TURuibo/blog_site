@@ -16,13 +16,13 @@
       <description></description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>https://turuibo.github.io/blog_site/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://turuibo.github.io/blog_site/posts/my-first-post/</guid>
+      <title>Tabular Foundation Models</title>
+      <link>https://turuibo.github.io/blog_site/posts/2024-09-11-tabular-foundation-models/</link>
+      <pubDate>Tue, 10 Sep 2024 07:07:07 +0100</pubDate>
+      <guid>https://turuibo.github.io/blog_site/posts/2024-09-11-tabular-foundation-models/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;images/CTFM.png&#34; alt=&#34;&#34;  title=&#34;Demonstration&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
