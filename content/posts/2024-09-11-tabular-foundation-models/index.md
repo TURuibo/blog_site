@@ -3,7 +3,7 @@ title : 'Tabular Foundation Models'
 author : "Ruibo"
 date: "2024-09-10"
 draft: false
-description: "A brief introduction for tabular foundation models"
+summary: "A brief introduction for tabular foundation models"
 tags: ["tabular", "foundation models", "LLMs"]
 ShowToc: true
 ---

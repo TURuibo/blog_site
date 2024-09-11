@@ -3,6 +3,9 @@ title: Ruibo-blog
 languageCode: en-us
 theme: hugo-PaperMod
 
+enableEmoji: true
+
+
 languages:
   en:
     languageName: "English"
