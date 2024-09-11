@@ -15,6 +15,9 @@ Tabular foundation models are ...
 
 
 # Citation
+> Tu, Ruibo. (Sep. 2024). Tabular Foundation Models. Ruibo-blog. https://turuibo.github.io/posts/2024-09-11-tabular-foundation-models/.
+
+or
 
 ```
 @article{tu2024tabularllms,
@@ -23,7 +26,7 @@ Tabular foundation models are ...
   journal = "turuibo.github.io",
   year    = "2024",
   month   = "Sep",
-  url     = ""
+  url     = "https://turuibo.github.io/posts/2024-09-11-tabular-foundation-models/"
 }
 
 ```
