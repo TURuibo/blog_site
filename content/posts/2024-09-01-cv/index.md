@@ -5,7 +5,7 @@ date: "2024-09-01"
 draft: false
 description: "A brief introduction about myself"
 tags: ["CV"]
-ShowToc: true
+ShowToc: false
 ---
 # About Me
 
