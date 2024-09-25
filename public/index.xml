@@ -15,5 +15,12 @@
       <guid>https://turuibo.github.io/posts/2024-09-11-tabular-foundation-models/</guid>
       <description>A brief introduction for tabular foundation models</description>
     </item>
+    <item>
+      <title>Ruibo CV</title>
+      <link>https://turuibo.github.io/posts/2024-09-01-cv/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://turuibo.github.io/posts/2024-09-01-cv/</guid>
+      <description>A brief introduction about myself</description>
+    </item>
   </channel>
 </rss>

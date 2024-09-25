@@ -2,7 +2,7 @@
 title : 'Ruibo CV'
 author : "Ruibo"
 date: "2024-09-01"
-draft: true
+draft: false
 description: "A brief introduction about myself"
 tags: ["CV"]
 ShowToc: true
