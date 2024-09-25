@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CV on Ruibo-blog</title>
     <link>https://turuibo.github.io/tags/cv/</link>
     <description>Recent content in CV on Ruibo-blog</description>
-    <generator>Hugo -- 0.134.1</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://turuibo.github.io/tags/cv/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://turuibo.github.io/posts/2024-09-01-cv/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://turuibo.github.io/posts/2024-09-01-cv/</guid>
-      <description>A brief introduction about myself</description>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;I am developing the next generation of foundation models for tabular data. I leverage my expertise on causal graphical models and machine learning for enhancing foundation models with capabilities for capturing essential structural information of tabular data. Such information is especially crucial for complex applications, such as table understanding, reasoning, and data-driven decision making. What distinguishes me as a top and unique candidate are my current research on tabular foundation models that can be directly applied to AutoML, my distinguished track record of publishing research papers in top-tier machine learning conferences, and invaluable experience working with world-class machine learning research labs.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

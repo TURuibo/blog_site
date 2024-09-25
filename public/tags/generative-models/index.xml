@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Generative Models on Ruibo-blog</title>
-    <link>http://localhost:1313/tags/generative-models/</link>
+    <link>https://turuibo.github.io/tags/generative-models/</link>
     <description>Recent content in Generative Models on Ruibo-blog</description>
-    <generator>Hugo -- 0.134.1</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/generative-models/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://turuibo.github.io/tags/generative-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tabular Foundation Models</title>
-      <link>http://localhost:1313/posts/2024-09-15-tabular-data-synthesis/</link>
+      <link>https://turuibo.github.io/posts/2024-09-15-tabular-data-synthesis/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024-09-15-tabular-data-synthesis/</guid>
-      <description>A brief introduction for tabular foundation models</description>
+      <guid>https://turuibo.github.io/posts/2024-09-15-tabular-data-synthesis/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Tabular foundation models are &amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://turuibo.github.io/posts/2024-09-15-tabular-data-synthesis/images/CTFM.png&#34; title=&#34;Demonstration&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

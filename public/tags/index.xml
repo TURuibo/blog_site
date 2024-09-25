@@ -1,32 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ruibo-blog</title>
     <link>https://turuibo.github.io/tags/</link>
     <description>Recent content in Tags on Ruibo-blog</description>
-    <generator>Hugo -- 0.134.1</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://turuibo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Foundation Models</title>
-      <link>https://turuibo.github.io/tags/foundation-models/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://turuibo.github.io/tags/foundation-models/</guid>
+      <title>Generative Models</title>
+      <link>https://turuibo.github.io/tags/generative-models/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://turuibo.github.io/tags/generative-models/</guid>
       <description></description>
     </item>
     <item>
       <title>LLMs</title>
       <link>https://turuibo.github.io/tags/llms/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://turuibo.github.io/tags/llms/</guid>
       <description></description>
     </item>
     <item>
       <title>Tabular</title>
       <link>https://turuibo.github.io/tags/tabular/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://turuibo.github.io/tags/tabular/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Foundation Models</title>
+      <link>https://turuibo.github.io/tags/foundation-models/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://turuibo.github.io/tags/foundation-models/</guid>
       <description></description>
     </item>
     <item>
