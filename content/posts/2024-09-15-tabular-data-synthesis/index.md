@@ -1,5 +1,5 @@
 ---
-title : 'Tabular Foundation Models'
+title : 'Tabular Data Synthesis'
 author : "Ruibo"
 date: "2024-09-15"
 draft: false

@@ -22,6 +22,10 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
+        - name: WiKi
+          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+          weight: 10
+
 
         
 params:
