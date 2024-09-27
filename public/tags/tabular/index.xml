@@ -6,15 +6,8 @@
     <description>Recent content in Tabular on Ruibo-blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://turuibo.github.io/tags/tabular/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tabular Data Synthesis</title>
-      <link>https://turuibo.github.io/posts/2024-09-15-tabular-data-synthesis/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://turuibo.github.io/posts/2024-09-15-tabular-data-synthesis/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Tabular foundation models are &amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://turuibo.github.io/posts/2024-09-15-tabular-data-synthesis/images/CTFM.png&#34; title=&#34;Demonstration&#34;&gt;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Tabular Foundation Models</title>
       <link>https://turuibo.github.io/posts/2024-09-11-tabular-foundation-models/</link>

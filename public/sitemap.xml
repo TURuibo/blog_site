@@ -2,38 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://turuibo.github.io/tags/generative-models/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://turuibo.github.io/tags/llms/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://turuibo.github.io/posts/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://turuibo.github.io/</loc>
     <lastmod>2024-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://turuibo.github.io/tags/tabular/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://turuibo.github.io/posts/2024-09-15-tabular-data-synthesis/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://turuibo.github.io/tags/</loc>
-    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://turuibo.github.io/tags/foundation-models/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://turuibo.github.io/tags/llms/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://turuibo.github.io/tags/tabular/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://turuibo.github.io/posts/2024-09-11-tabular-foundation-models/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://turuibo.github.io/tags/cv/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://turuibo.github.io/posts/2024-09-01-cv/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <loc>https://turuibo.github.io/tags/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://turuibo.github.io/archives/</loc>
   </url><url>
